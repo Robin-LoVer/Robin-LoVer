@@ -5,7 +5,7 @@ Hello! I am Robin Lopez. I am a hardware computer sciences undergraduate, but I'
 
 > - I specialize in general-purpose programming for end-user applications, but I also have worked with microcontrollers, IoT applications and design/control of machinery and electronics.
 
-> - My main language is **Python** (which I use for everything), but I also work with **C** *(for microcontrollers)* and **Java**. Currently I'm learning JavaScript and a lot of other related web-dev tools (TypeScript, Mongo, Angular, etc) for an academic research project.
+> - My main language is **Python** (which I use for everything), but I also work with **C** and **Java**. Currently I'm learning JavaScript and a lot of other related web-dev tools (TypeScript, Mongo, Angular, etc) for an academic research project.
 
 > - Also a visual artist, I illustrate and design frequently for multiple personal projects.
 
